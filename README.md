@@ -6,7 +6,7 @@ Brita [1337] Prototype
 --------------------------
 
 
-![image]([https://github.com/lmnpie/Teufel/assets/128521666/c3e42eb8-f992-4f3c-94eb-add8ade440cf](https://github.com/lmnpie/brita-proto/blob/main/brika-1337%20(1).png?raw=true))
+![image](https://raw.githubusercontent.com/lmnpie/brita-proto/main/brika-1337%20(1).png)
 
 
 --------------------------
