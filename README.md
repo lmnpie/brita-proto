@@ -11,5 +11,5 @@ Brita [1337] Prototype
 
 --------------------------
 
-[KLE]([keyboard-layout-editor.com/#/gists/4ae7cce17dea841bc70389b62057de9b](http://www.keyboard-layout-editor.com/#/gists/3c187b56ea7ccd12dfa27888a73fecb8))
+[KLE](http://www.keyboard-layout-editor.com/#/gists/3c187b56ea7ccd12dfa27888a73fecb8)
 
